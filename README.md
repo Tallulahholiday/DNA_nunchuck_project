@@ -1,8 +1,12 @@
+movie_analysis:
+workflow for running through cropping each movie and batch analysis of movies using neural networks. The NN data files can be found here 10.5281/zenodo.20788000.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 cadnano-related:
 
 The three ".json" files are cadnano design files for the nunchuck seed, adpater strands and the loop bundle, respectively.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 NunchuckNet-related:
 
