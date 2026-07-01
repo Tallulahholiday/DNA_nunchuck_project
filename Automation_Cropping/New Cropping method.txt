@@ -1,1 +1,2 @@
-
+It automatically detects bad frames and flags them for human check.
+Click 'accept bad' to pass into bad frames.
